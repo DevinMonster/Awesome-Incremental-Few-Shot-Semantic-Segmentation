@@ -1,5 +1,5 @@
 # Awesome-Incremental-Few-Shot-Semantic-Segmentation
-## [Papers](https://github.com/DevinMonster/Awesome-Incremental-Few-Shot-Semantic-Segmentation#papers)
+## Papers
 
 ### [2023](https://github.com/DevinMonster/Awesome-Incremental-Few-Shot-Semantic-Segmentation#2023)
 
